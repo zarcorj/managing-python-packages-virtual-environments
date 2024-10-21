@@ -1,0 +1,7 @@
+name: py37_virtenv
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - babel
+prefix: C:\Users\zarco\miniconda3\envs\py37_virtenv
